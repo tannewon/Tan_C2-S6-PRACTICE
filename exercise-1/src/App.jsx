@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./index.css"; // Ensure you have the CSS classes defined here
+import "./index.css"; 
 
 function App() {
   const [isRaining, setIsRaining] = useState(false);
